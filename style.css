@@ -1,0 +1,13 @@
+h3{
+ color: rgb(255, 255, 42);
+ background-color: rgba(252, 28, 28, 0.774);
+}
+ body{
+    background-color: rgba(235, 174, 7, 0.425);
+    text-align: center;
+ }
+
+ img{
+    width: 400px;
+    position: initial;
+ }
