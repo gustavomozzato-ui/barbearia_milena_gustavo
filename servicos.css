@@ -1,3 +1,32 @@
+header {
+background-color: rgb(red, green, blue);
+}
+
+nav li {
+
+display: inline;
+margin: 0 0 0 15px ;
+}
+
+nav a {
+ text-decoration: none ;
+text-transform: uppercase ;
+color: black;
+font-size: 22px ;
+font-weight: bold ;
+
+
+
+
+}
+
+
+
+
+
+
+
+
 
 
 
