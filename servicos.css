@@ -1,5 +1,7 @@
 header {
-background-color: rgb(red, green, blue);
+background-color: rgb(red, rgb(45, 108, 192), blue);
+height: 20px;
+padding: 10px 0;
 }
 
 nav li {
@@ -15,10 +17,18 @@ color: black;
 font-size: 22px ;
 font-weight: bold ;
 
-
-
-
 }
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+ nav {
+    position: absolute;
+    top: 110px ;
+    right: 0;
+ }
+
 
 
 
