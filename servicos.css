@@ -1,6 +1,6 @@
 header {
-background-color: rgb(red, rgb(45, 108, 192), blue);
-height: 20px;
+background-color: rgba(177, 166, 14, 0.856)  ;
+height: 150px;
 padding: 10px 0;
 }
 
@@ -25,12 +25,40 @@ font-weight: bold ;
 }
  nav {
     position: absolute;
-    top: 110px ;
+    top: 75px ;
     right: 0;
  }
+.servicos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.servicos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top ;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+.servicos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+.descricao {
+    font-size: 18px;
 
+}
+.preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
 
-
+.servicos img{
+    width: 200px
+}
 
 
 
