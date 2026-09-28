@@ -1,20 +1,105 @@
-h3{
- color: rgb(255, 255, 42);
- background-color: rgba(252, 28, 28, 0.774);
+header {
+background-color: rgba(177, 166, 14, 0.856)  ;
+height: 150px;
+padding: 10px 0;
+
 }
- body{
-    background-color: rgba(235, 174, 7, 0.425);
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUY4sX99nwptySHoobMSjdV-KHiMlUNsCsXM7wisKBCA&s);
+
+nav li {
+
+display: inline;
+margin: 0 0 0 15px ;
+
+
+}
+
+
+
+nav a {
+ text-decoration: none ;
+text-transform: uppercase ;
+color: black;
+font-size: 22px ;
+font-weight: bold ;
+
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+ nav {
+    position: absolute;
+    top: 75px ;
+    right: 0;
+ }
+.servicos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.servicos li {
+    display: inline-block;
     text-align: center;
- }
+    width: 30%;
+    vertical-align: top ;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+.servicos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+.descricao {
+    font-size: 18px;
 
- img{
-    width: 400px;
-    position: initial;
+}
+.preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.servicos img{
+    width: 200px
+}
+
+footer{
+    text-align: center;
+background-color: brown;
+padding: 40px ;
+}
+footer img {
+    
+width: 50px;
+margin-bottom: 20px;
+}
+footer p{
+    color:white;
+}
+
+main{
+    width:940px;
+    margin:0 auto;
+}
+form{
+    margin: 40px 0;
+}
+
+form label{
+display: block;
+font-size: 20px;
+ margin: 0 0 10px;
+}
+form input{
+    display:block;
+margin: 0 0 20px;
+padding: 10px 25px;
+width: 50%;
+
+}
 
 
- }
 
-   footer{ background-color: rgb(255, 102, 0);
-   
-   }
+body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUY4sX99nwptySHoobMSjdV-KHiMlUNsCsXM7wisKBCA&s);}
