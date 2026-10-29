@@ -9,11 +9,7 @@ nav li {
 
 display: inline;
 margin: 0 0 0 15px ;
-
-
 }
-
-
 
 nav a {
  text-decoration: none ;
@@ -21,6 +17,10 @@ text-transform: uppercase ;
 color: black;
 font-size: 22px ;
 font-weight: bold ;
+
+
+
+
 
 }
 .caixa {
@@ -47,6 +47,20 @@ font-weight: bold ;
     padding: 30px 20px;
     box-sizing: border-box;
 }
+.servicos li:hover {
+border-color: rgb(189, 129, 0)
+border 5px solid rgb(165, 107, 0)
+
+
+
+}
+.servicos li:active {
+background-color: rgba(255, 153, 0, 0.877);
+
+}
+
+
+
 .servicos h2 {
     font-size: 30px;
     font-weight: bold;
@@ -131,7 +145,7 @@ background-color: rgb(218, 98, 0);
     background-color: rgb(223, 151, 70);
     }
 }
--]=
+
 
 
 

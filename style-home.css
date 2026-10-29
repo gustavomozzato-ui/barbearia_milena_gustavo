@@ -1,6 +1,6 @@
 
 header {
-   background-color: rgba(177, 166, 14, 0.856)  ;
+   background-color: rgba(177, 125, 14, 0.856)  ;
    height: 150px;
    padding: 10px 0;
    }
@@ -8,7 +8,7 @@ header {
 
 h3{
  color: rgb(255, 255, 42);
- background-color: rgba(252, 28, 28, 0.774);
+ background-color: rgba(6, 5, 5, 0.774);
 }
  body{
     background-color: rgba(235, 174, 7, 0.425);
@@ -17,8 +17,9 @@ h3{
  }
 
  img{
-    width: 400px;
+    width: 50px;
     position: initial;
+    height: 100px ;
 
  }
 
